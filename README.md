@@ -10,7 +10,7 @@ Undergraduate Researcher @ Information Security Lab
 Interested in  
 Computer Vision · Blockchain · Backend
 
-Portfolio: https://portfolio.example.com  
+Portfolio: https://ihyonoo.github.io/
 Tech Blog: https://velog.io/@hyun_woo/posts
 
 <br>
