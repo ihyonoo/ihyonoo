@@ -25,27 +25,10 @@ Portfolio: https://portfolio.example.com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![Hyperledger](https://img.shields.io/badge/Hyperledger%20Besu-3B82F6?style=for-the-badge&logo=hyperledger&logoColor=white)
 
-![Hyperledger Besu](https://img.shields.io/badge/Hyperledger%20Besu-6B46C1?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Hyperledger Besu](https://img.shields.io/badge/Hyperledger%20Besu-3B82F6?style=for-the-badge&logo=hyperledger&logoColor=white)
-<img src="https://raw.githubusercontent.com/hyperledger/besu/main/docs/images/hyperledger-besu.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/hyperledger/besu/main/docs/images/hyperledger-besu.svg" width="25"/> Hyperledger Besu
+<br><br>
 
-![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hyperledger Besu](https://img.shields.io/badge/Hyperledger%20Besu-3B82F6?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hyperledger Besu](https://img.shields.io/badge/Hyperledger%20Besu-3B82F6?style=for-the-badge&logo=hyperledger&logoColor=white)
-
-<br>
-
-## Record
-
-Tech Blog: https://velog.io/@hyun_woo/posts
-
-<br>
-
-## Contact
-
-Email: ihyonoo0520@gmail.com
+Velog: https://velog.io/@hyun_woo/posts | Email: ihyonoo0520@gmail.com
 
 </div>
