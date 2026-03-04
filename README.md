@@ -10,8 +10,9 @@ Undergraduate Researcher @ Information Security Lab
 Interested in  
 Computer Vision · Blockchain · Backend
 
-Portfolio: https://portfolio.example.com
 
+Portfolio: https://portfolio.example.com
+Tech Blog: https://velog.io/@hyun_woo/posts
 <br>
 
 ## Tech Stack
@@ -27,8 +28,10 @@ Portfolio: https://portfolio.example.com
 
 ![Hyperledger](https://img.shields.io/badge/Hyperledger%20Besu-3B82F6?style=for-the-badge&logo=hyperledger&logoColor=white)
 
-<br><br>
+<br>
 
-Velog: https://velog.io/@hyun_woo/posts | Email: ihyonoo0520@gmail.com
+## Contact
+
+Email: ihyonoo0520@gmail.com
 
 </div>
