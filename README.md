@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=FFFFFF&stroke=000000&strokeWidth=1.5&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:00C9FF,50:92FE9D,100:00C9FF&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=FFFFFF&stroke=000000&strokeWidth=1.5&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:00C9FF,50:92FE9D,100:00C9FF&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=FFFFFF&stroke=000000&strokeWidth=1&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:89F7FE,50:66A6FF,100:89F7FE&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=FFFFFF&stroke=000000&strokeWidth=1.5&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:89F7FE,50:66A6FF,100:89F7FE&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=FFFFFF&stroke=000000&strokeWidth=1&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
 
 <!--
 **ihyonoo/ihyonoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
