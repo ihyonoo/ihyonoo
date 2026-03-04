@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hyunwoo%20Choi&fontSize=56&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Hyunwoo's&fontSize=60&fontColor=FFFFFF&desc=GitHub&descSize=35&descAlignY=60&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hyunwoo's%20GitHub&fontSize=56&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Hyunwoo's&fontSize=60&fontColor=FFFFFF&desc=GitHub&descSize=25&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=FFFFFF&desc=GitHub&descSize=35&descAlignY=65&animation=fadeIn)
 
 <!--
 **ihyonoo/ihyonoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
