@@ -12,7 +12,6 @@ Interested in
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-4CAF50?style=for-the-badge&logo=fastapi&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
