@@ -8,7 +8,9 @@ Computer Software Engineering Student
 Undergraduate Researcher @ Information Security Lab
 
 Interested in  
-Computer Vision · Blockchain · Backend · AI
+Computer Vision · Blockchain · Backend
+
+Portfolio: https://portfolio.example.com
 
 <br>
 
@@ -27,11 +29,9 @@ Computer Vision · Blockchain · Backend · AI
 
 <br>
 
-## Links
+## Record
 
-Record: https://velog.io/@hyun_woo/posts
-
-Portfolio: https://portfolio.example.com
+Tech Blog: https://velog.io/@hyun_woo/posts
 
 <br>
 
