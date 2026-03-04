@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Hyunwoo%20Choi&fontSize=60&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00B4DB,100:0083B0&height=200&section=header&text=Hyunwoo%20Choi&fontSize=60&fontAlignY=35&animation=fadeIn" />
 </p>
 
 ### Backend / Security Engineer
@@ -9,7 +9,7 @@
 - Blockchain
 - RTLS / NFC
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:00B4DB,100:0083B0&height=120&section=footer)
 
 <!--
 **ihyonoo/ihyonoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
