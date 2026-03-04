@@ -11,6 +11,7 @@ Interested in
 Computer Vision · Blockchain · Backend
 
 Portfolio: https://portfolio.example.com
+
 Tech Blog: https://velog.io/@hyun_woo/posts
 
 <br>
@@ -27,7 +28,7 @@ Tech Blog: https://velog.io/@hyun_woo/posts
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Hyperledger](https://img.shields.io/badge/Hyperledger%20Besu-3B82F6?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger%20Besu-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
 <br>
 
