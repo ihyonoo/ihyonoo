@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=FFFFFF&stroke=000000&strokeWidth=1.5&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:667EEA,50:764BA2,100:667EEA&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=FFFFFF&stroke=000000&strokeWidth=1.5&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:43E97B,50:38F9D7,100:43E97B&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=0F172A&stroke=FFFFFF&strokeWidth=1.5&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
-
-
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:00C9FF,50:92FE9D,100:00C9FF&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=0F172A&stroke=FFFFFF&strokeWidth=1.5&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:89F7FE,50:66A6FF,100:89F7FE&height=220&section=header&text=Hyunwoo's&fontSize=64&fontColor=0F172A&stroke=FFFFFF&strokeWidth=1.5&desc=GitHub&descSize=20&descAlignY=65&animation=fadeIn)
