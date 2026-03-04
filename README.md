@@ -29,13 +29,14 @@ Computer Vision · Blockchain · Backend · AI
 
 ## Links
 
-Record  
-https://velog.io/@hyun_woo/posts
+Record: https://velog.io/@hyun_woo/posts
 
-Portfolio  
-https://portfolio.example.com
+Portfolio: https://portfolio.example.com
 
-Email  
-ihyonoo0520@gmail.com
+<br>
+
+## Contact
+
+Email: ihyonoo0520@gmail.com
 
 </div>
